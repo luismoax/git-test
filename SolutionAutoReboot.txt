@@ -4,8 +4,8 @@ Acredito que o minha apredizagem de Portugês não é mau
 
 PINGAAAA
 
-Power Options
-Change Plan Settings
+Opções de Energia
+Mudar Opções do Plano
 Change Adavanced Power Settings
 Expand Sleep, Expand Allow Hybrid Sleep, set On Battery: On, Plugged In: On
 Expand Hard Disk, Expand Turn Off Hard Disk After, set On Battery: Never (or Zero), Plugged In: Never (or Zero)
