@@ -1,0 +1,23 @@
+commit 65ccfd9058913b617752babe324af18eeaf882d6
+Author: luismo <luismoax@gmail.com>
+Date:   Fri Oct 26 15:55:58 2018 -0400
+
+    updated the trick
+
+commit 1051c4f444a6a74f9a088d895e79611319faf16d
+Author: luismo <luismoax@gmail.com>
+Date:   Fri Oct 26 15:39:38 2018 -0400
+
+    updated the infinite variable name
+
+commit 8c6f548a89e62222eddbb40f603ec8f59637421f
+Author: luismo <luismoax@gmail.com>
+Date:   Fri Oct 26 15:38:52 2018 -0400
+
+    Uptated the Infinite value
+
+commit 7733e0f6a40c66f177b68ff2dbf62a69901f72e6
+Author: luismo <luismoax@gmail.com>
+Date:   Fri Oct 26 15:37:52 2018 -0400
+
+    Inicio
