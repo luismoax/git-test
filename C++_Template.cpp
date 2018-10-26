@@ -16,7 +16,7 @@
 using namespace std;
 
 typedef pair<int, int> pii;
-const ll inf = 1e18 + 3;
+const ll infinite = 1e18 + 3;
 const int mod = 1e9 + 7;
 const int lim = 2e5 + 2;
 
