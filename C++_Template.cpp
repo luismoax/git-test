@@ -12,6 +12,8 @@
 #define sf scanf
 #define pf printf
 #define endl "\n"
+#define px first
+#define py second
 
 using namespace std;
 
