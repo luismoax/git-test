@@ -8,6 +8,7 @@
 // Types
 #define ll long long
 #define ull unsigned long long
+#define ld long double
 // IO
 #define sf scanf
 #define pf printf
